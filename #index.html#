@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Yatasto Agro-veterinaria</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="fa/css/font-awesome.min.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="css/main.css" type="text/css" media="screen" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <!-- Static navbar -->
+      <div class="navbar navbar-inverse navbar-static-top">
+	<div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="index.html">Yatasto Agro-veterinaria</a>
+          </div>
+          <div class="navbar-collapse collapse">
+	    <ul class="nav navbar-nav navbar-right">
+	      <li><a href="">uno</a></li>
+	      <li><a href="">dos</a></li>
+	      <li><a href="">tres</a></li>
+	      <li><a href="">cuatro</a></li>
+	    </ul>
+          </div><!--/.nav-collapse -->
+	</div>
+      </div>
+
+      <!-- main content -->
+      <div class="main-div">
+	<div class="contenedor">
+	  
+	</div>
+      </div>
+
+      
+      <!-- +++++ Footer Section +++++ -->
+      
+      <div class="" id="footer">
+	<div class="container">
+	  <div class="row">
+	    <div class="col-lg-4">
+	      <h4>Productos</h4>
+	      <p>
+		Entre Rios 987,<br/>
+		+54 387 666-666, <br/>
+		Salta, Argentina.
+	      </p>
+	    </div><!-- /col-lg-4 -->
+	    
+	    <div class="col-lg-4">
+	      <h4>Servicios</h4>
+	      <p>
+		<a href="https://github.com/willy80">Github</a><br/>
+		<a href="https://www.facebook.com/WillyRengel">Twitter</a><br/>
+		<a href="https://www.facebook.com/WillyRengel">Facebook</a>
+	      </p>
+	    </div><!-- /col-lg-4 -->
+	    
+	    <div class="col-lg-4">
+	      <h4>Contacto</h4>
+	      <p>Mas noble que una lechuga...</p>
+	    </div><!-- /col-lg-4 -->
+	    
+	  </div>
+	  
+	</div>
+      </div>
+    </div>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  </body>
+</html>

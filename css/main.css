@@ -1,10 +1,11 @@
 .navbar{
     background-color:#f5f5f5;
     color:white;
-    height:100px;
+    height:130px;
     padding-top:20px;
     margin-bottom:0px;
     border:none;
+    overflow:hidden;
 }
 
 .navbar-collapse{
@@ -21,6 +22,15 @@
     font-weight:bold;
 }
 
+.navbar-brand{
+    padding:0px;
+    height:80px;
+    margin-bottom:30px;
+}
+
+.navbar-brand img {
+    height:100%;
+}
 
 #footer {
     width:100%;
